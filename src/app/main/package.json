@@ -1,6 +1,6 @@
 {
   "name": "core-eagle",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "peerDepenencies": {
     "@angular/animations": "^5.2.0",
     "@angular/common": "^5.2.0",
