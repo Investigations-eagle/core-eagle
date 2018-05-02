@@ -21,5 +21,6 @@ npm install
 
 ```
 npm run packagr
+cd ./build_modules
 npm publish
 ```
