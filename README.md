@@ -14,7 +14,8 @@ npm i core-eagle
 ## To start project:
 
 ``` 
-npm install 
+npm install
+npm start
 ```
 
 ## To publish project:
